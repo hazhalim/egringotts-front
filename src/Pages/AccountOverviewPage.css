@@ -1,0 +1,26 @@
+/* AccountOverviewPage.css */
+
+.account-overview-main {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+  .account-details, .transaction-history {
+    width: 45%;
+  }
+  
+  .transaction-history ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .transaction-history li {
+    margin-bottom: 10px;
+  }
+  
+  .group-name {
+    text-align: center;
+    margin-top: 20px;
+  }
+  

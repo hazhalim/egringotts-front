@@ -1,0 +1,50 @@
+.expenditure-analysis-main {
+    padding: 20px;
+  }
+  
+  .summary {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+  }
+  
+  .summary h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  .summary ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .summary li {
+    font-size: 1rem;
+    margin: 5px 0;
+  }
+  
+  .chart-container {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  .chart-container h2 {
+    margin: 0 0 20px;
+    font-size: 1.5rem;
+    color: #333;
+  }
+  
+  header h1 {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #f1f1f1;
+  }
+  
