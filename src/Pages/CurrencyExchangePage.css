@@ -1,0 +1,36 @@
+/* CurrencyExchangePage.css */
+
+.currency-exchange-main {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .currency-form {
+    width: 30%;
+  }
+  
+  .currency-form label,
+  .currency-form select,
+  .currency-form input,
+  .currency-form button {
+    margin-bottom: 10px;
+    display: block;
+  }
+  
+  .exchange-rates {
+    width: 30%;
+  }
+  
+  .exchange-rates ul {
+    list-style-type: none;
+  }
+  
+  .converted-amount {
+    width: 30%;
+  }
+  
+  .group-name {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
